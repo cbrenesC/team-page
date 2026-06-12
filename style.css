@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+.links {
+    background-color: lightgray;
+    padding: 10px;
+    position: relative; /* position property */
+}
+
+.links a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.member {
+    background-color: white;
+    border: 1px solid gray;
+    padding: 15px;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+.member img {
+    float: left; /* float property */
+    width: 120px;
+    height: 120px;
+    margin-right: 15px;
+}
